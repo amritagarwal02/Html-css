@@ -84,5 +84,5 @@ const HomeCarousel = props => {
     </Row>
   )
 }
-
+//Hey this is repo or file is used for crousel in a website
 export default HomeCarousel
